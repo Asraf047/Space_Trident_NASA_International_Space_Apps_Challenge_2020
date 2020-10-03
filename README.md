@@ -1,4 +1,4 @@
-# NASA International Space Apps Challenge 2020 (Khulna_Mohakash_Create)
+# NASA International Space Apps Challenge 2020 (Space Trident : Next Generation EVA Tools)
 ## Summary
 The Space Trident is a modified version of the existing planetary geology toolset that deals with two major aspects: firstly, comes the structural modification of the toolset for better maneuverability and secondly, a proper coating to protect it from terrestrial radiation. The Space Trident have 3 major sections: Extension Handle, Stem &amp; Tool Heads. With a single extension handle &amp; stem, by varying the tool heads, explorers can use 4 different important tools (Rake, Small scoop, Large Scoop, Trenching Tool). This reduces the gross weight to be carried by the lander. The fitting mechanism is newly proposed, and very simple to perform. A secondary handle is also proposed for better handling.
 ## How We Addressed This Challenge
